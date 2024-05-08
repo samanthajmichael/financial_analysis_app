@@ -1,6 +1,6 @@
 # Financial Analysis Streamlit App
 ## A Data-Driven Exploration of Spending Trends from 2021-2022
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://a-financial-analysis-app.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://financial-analysis.streamlit.app/)
 
 In 2022, I decided to create a budget to track my expenditures and see how I was spending my money. The goal was to identify any trends or hidden patterns that could help improve my financial well-being. 
 
@@ -17,7 +17,7 @@ The data was cleaned in python and google sheets. There is an 'clean_data.ipynb'
 - See the cumulative Income and Debits for the selected years 
 
 # Running the App
-[Streamlit App](https://a-financial-analysis-app.streamlit.app/)
+[Streamlit App](https://financial-analysis.streamlit.app/)
 
 ## After forking the repo: 
 1. Open terminal and use command `pip -r requirements.txt` to install required packages an version numbers. 
